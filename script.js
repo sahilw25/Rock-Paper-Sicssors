@@ -68,7 +68,7 @@ function round (player, computer)
 }
 
 function game () {
-    while (rounds < 5) 
+    while (rounds < 6) 
     {
         let userInput=prompt('Please select rock, paper, or scissors');
         if (userInput.toLowerCase() == 'rock')
