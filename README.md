@@ -1,5 +1,6 @@
 # Rock-Paper-Sicssors
+> Live Preview
 https://sahilw25.github.io/Rock-Paper-Sicssors/
 Play Rock Paper sicssors(Console)
 
-Thank You https://github.com/almiro21  for your mentorship and contribution
+**Special Thanks To** https://github.com/almiro21  for Mentorship and contribution
